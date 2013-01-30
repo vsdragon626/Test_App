@@ -4,5 +4,18 @@
     <string name="app_name">AndroidActivities</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="last_page_back">Previous</string>
+    <string name="desc">The #1 Programmer excuse for legitimately slacking off:  &quot;My code's compiling!&quot;</string>
+    <string name="main_button">Hello, please press me!</string>
+    <string name="second_page">Next</string>
+    <string name="last_page_done">Done</string>
+    <string name="last_page_play">QUACK!</string>
+    <string name="last_page_text">And finally here is a duck.</string>
+    <string name="desc_duck">Its just a duck, just a duck</string>
+    <string name="page_two_back">Back</string>
+    <string name="desc_clock">The neon blue light adds some flavor to the page instead of just a clock</string>
 
 </resources>
